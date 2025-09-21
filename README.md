@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Open Zaza Code</h1>
-<h3 align="center">A passionate user from France</h3>
+<h3 align="center">Actuellement en BUT Sciences des données, ici pour partager mon avancement, tout mes projets seront répertoriés et archivés</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smirkprovider&label=Profile%20views&color=0e75b6&style=flat" alt="smirkprovider" /> </p>
 
@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love Riblage203**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
